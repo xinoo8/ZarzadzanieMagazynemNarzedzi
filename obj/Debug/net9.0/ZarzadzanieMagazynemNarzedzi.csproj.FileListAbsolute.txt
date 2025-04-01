@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\ZarzadzanieMagazynemNarzedzi\ZarzadzanieMagazynemNarzedzi\bin\Debug\net9.0\ZarzadzanieMagazynemNarzedzi.exe
+C:\Users\admin\source\repos\ZarzadzanieMagazynemNarzedzi\ZarzadzanieMagazynemNarzedzi\bin\Debug\net9.0\ZarzadzanieMagazynemNarzedzi.deps.json
+C:\Users\admin\source\repos\ZarzadzanieMagazynemNarzedzi\ZarzadzanieMagazynemNarzedzi\bin\Debug\net9.0\ZarzadzanieMagazynemNarzedzi.runtimeconfig.json
+C:\Users\admin\source\repos\ZarzadzanieMagazynemNarzedzi\ZarzadzanieMagazynemNarzedzi\bin\Debug\net9.0\ZarzadzanieMagazynemNarzedzi.dll
+C:\Users\admin\source\repos\ZarzadzanieMagazynemNarzedzi\ZarzadzanieMagazynemNarzedzi\bin\Debug\net9.0\ZarzadzanieMagazynemNarzedzi.pdb
+C:\Users\admin\source\repos\ZarzadzanieMagazynemNarzedzi\ZarzadzanieMagazynemNarzedzi\obj\Debug\net9.0\ZarzadzanieMagazynemNarzedzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ZarzadzanieMagazynemNarzedzi\ZarzadzanieMagazynemNarzedzi\obj\Debug\net9.0\ZarzadzanieMagazynemNarzedzi.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ZarzadzanieMagazynemNarzedzi\ZarzadzanieMagazynemNarzedzi\obj\Debug\net9.0\ZarzadzanieMagazynemNarzedzi.AssemblyInfo.cs
+C:\Users\admin\source\repos\ZarzadzanieMagazynemNarzedzi\ZarzadzanieMagazynemNarzedzi\obj\Debug\net9.0\ZarzadzanieMagazynemNarzedzi.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ZarzadzanieMagazynemNarzedzi\ZarzadzanieMagazynemNarzedzi\obj\Debug\net9.0\ZarzadzanieMagazynemNarzedzi.dll
+C:\Users\admin\source\repos\ZarzadzanieMagazynemNarzedzi\ZarzadzanieMagazynemNarzedzi\obj\Debug\net9.0\refint\ZarzadzanieMagazynemNarzedzi.dll
+C:\Users\admin\source\repos\ZarzadzanieMagazynemNarzedzi\ZarzadzanieMagazynemNarzedzi\obj\Debug\net9.0\ZarzadzanieMagazynemNarzedzi.pdb
+C:\Users\admin\source\repos\ZarzadzanieMagazynemNarzedzi\ZarzadzanieMagazynemNarzedzi\obj\Debug\net9.0\ZarzadzanieMagazynemNarzedzi.genruntimeconfig.cache
+C:\Users\admin\source\repos\ZarzadzanieMagazynemNarzedzi\ZarzadzanieMagazynemNarzedzi\obj\Debug\net9.0\ref\ZarzadzanieMagazynemNarzedzi.dll
